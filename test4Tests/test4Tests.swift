@@ -34,7 +34,7 @@ class test4Tests: XCTestCase {
     }
     
     func test2(){
-        print("1234")
+        print("12345-5")
     }
     
 }
